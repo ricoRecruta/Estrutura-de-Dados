@@ -24,7 +24,7 @@ public class ListaEncadedaDuplaTeste {
         Object teste4 = lista.getAndRemove(4);
         Object teste5 = lista.getAndRemove(78);
         Object teste6 = lista.getAndRemove(5);
-
+        //o que eu mudei
 
 
         //ordem dos numeros que foram tirados

@@ -70,7 +70,7 @@ public class ListaEncadeadaDupla<Dado> {
         if(head == null) return null;
 
         current = head;
-
+        //o que eu vou mudar para mandar
             /*while (current != null && current.elemento != elemento) {
                 current = current.next;
             }
